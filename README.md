@@ -3,8 +3,10 @@ To compile premake project:
 
 ```
 ./vendor/bin/premake/premake5 gmake2
-after go to build folder than enter make config=debug/release
 ```
+
+after go to build folder than enter make config=debug/release
+
 ---
 
 ### executable desktop app
