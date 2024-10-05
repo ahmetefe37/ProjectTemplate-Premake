@@ -1,0 +1,9 @@
+[submodule "Test-Core/vendor/spdlog"]
+	path = Test-Core/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "Test-Core/vendor/GLFW"]
+	path = Test-Core/vendor/GLFW
+	url = https://github.com/glfw/glfw.git
+[submodule "Test-Core/vendor/glm"]
+	path = Test-Core/vendor/glm
+	url = https://github.com/g-truc/glm.git
